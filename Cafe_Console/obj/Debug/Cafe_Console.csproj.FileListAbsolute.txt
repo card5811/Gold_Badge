@@ -1,0 +1,9 @@
+C:\MasterFileChallenges\Cafe_Console\bin\Debug\Cafe_Console.exe.config
+C:\MasterFileChallenges\Cafe_Console\bin\Debug\Cafe_Console.exe
+C:\MasterFileChallenges\Cafe_Console\bin\Debug\Cafe_Console.pdb
+C:\MasterFileChallenges\Cafe_Console\bin\Debug\Cafe_Challenge.dll
+C:\MasterFileChallenges\Cafe_Console\bin\Debug\Cafe_Challenge.pdb
+C:\MasterFileChallenges\Cafe_Console\obj\Debug\Cafe_Console.csprojAssemblyReference.cache
+C:\MasterFileChallenges\Cafe_Console\obj\Debug\Cafe_Console.csproj.CopyComplete
+C:\MasterFileChallenges\Cafe_Console\obj\Debug\Cafe_Console.exe
+C:\MasterFileChallenges\Cafe_Console\obj\Debug\Cafe_Console.pdb

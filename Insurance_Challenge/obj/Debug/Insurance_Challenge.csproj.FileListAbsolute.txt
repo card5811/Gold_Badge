@@ -1,0 +1,5 @@
+C:\MasterFileChallenges\Insurance_Challenge\obj\Debug\Insurance_Challenge.csprojAssemblyReference.cache
+C:\MasterFileChallenges\Insurance_Challenge\bin\Debug\Insurance_Challenge.dll
+C:\MasterFileChallenges\Insurance_Challenge\bin\Debug\Insurance_Challenge.pdb
+C:\MasterFileChallenges\Insurance_Challenge\obj\Debug\Insurance_Challenge.dll
+C:\MasterFileChallenges\Insurance_Challenge\obj\Debug\Insurance_Challenge.pdb
